@@ -1,0 +1,1 @@
+wget --recursive  --no-parent --reject "index.html" https://dbarchive.biosciencedbc.jp/data/open-tggates/
